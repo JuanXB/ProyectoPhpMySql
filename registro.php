@@ -14,7 +14,9 @@
     <div class="formulario">
     <form action="validacin_registro" method="post">
       <h2>Registro</h2>
-      <label for="">Usuario</label>
+      <label for="">Nombre</label>
+      <input type="text" name="nombre" require>
+      <label for="">Nombre de usuario</label>
       <input type="text" name="usuario" require>
       <label for="">Contraseña</label>
       <input type="text" name="password" require>
@@ -24,7 +26,7 @@
     </form>
     <p class="login">
       <h3>¿Ya tienes una cuenta? Logueate aquí</h3>
-      <a href="/login.php"></a>
+      <a href="/login.php">Login</a>
     </p>
     </div>
   </div>

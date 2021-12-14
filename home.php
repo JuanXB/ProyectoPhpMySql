@@ -12,39 +12,50 @@
       <nav class="menu">
         <ul>
           <li><a href="#">Inicio</a></li>
-          <li><a href="#">Sobre nosotros</a></li>
-          <li><a href="#">Contacto</a></li>
+          <li><a href="nosotros.php">Sobre nosotros</a></li>
+          <li><a href="contacto.php">Contacto</a></li>
+          <li><a href="usuario.php">Usuarios</a></li>
         </ul>
       </nav>
     </header>
-    <section class="seccion1">
-      <article class="articulo1">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Labore adipisci dolor, asperiores magnam, 
-        deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-        atque nemo magni ipsam libero fugit quam vero!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Labore adipisci dolor, asperiores magnam, 
-        deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-        atque nemo magni ipsam libero fugit quam vero!
-      </article>
+    <main class="contenido_principal">
       <nav class="nav_derecha">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Labore adipisci dolor, asperiores magnam, 
-        deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-        atque nemo magni ipsam libero fugit quam vero!
+          <h2 class="titulo_nav_der"></h2>
+          <p class="parrafo_nav_der">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Labore adipisci dolor, asperiores magnam, 
+          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+          atque nemo magni ipsam libero fugit quam vero!
+          </p>
       </nav>
-      <article class="articulo2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Labore adipisci dolor, asperiores magnam, 
-        deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-        atque nemo magni ipsam libero fugit quam vero!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Labore adipisci dolor, asperiores magnam, 
-        deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-        atque nemo magni ipsam libero fugit quam vero!
-      </article>
-    </section>
+      <section class="seccion1">
+        <article class="articulo1">
+          <p class="parrafo1">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Labore adipisci dolor, asperiores magnam, 
+          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+          atque nemo magni ipsam libero fugit quam vero!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Labore adipisci dolor, asperiores magnam, 
+          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+          atque nemo magni ipsam libero fugit quam vero!
+          </p>
+        </article>
+        <article class="articulo2">
+          <h2 class="titulo2"></h2>
+          <p class="parrafo2">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Labore adipisci dolor, asperiores magnam, 
+          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+          atque nemo magni ipsam libero fugit quam vero!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Labore adipisci dolor, asperiores magnam, 
+          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+          atque nemo magni ipsam libero fugit quam vero!
+          </p>
+        </article>
+      </section>
+    </main>
     <footer>
       <h2>Curso PHP</h2>
     </footer>

@@ -14,11 +14,11 @@
 
     <form action="validacion.php" method="post">
       <h2>Logueate</h2>
-      <label for="">Usuario</label>
-      <input type="text" name="usuario">
-      <label for="">Contraseña</label>
-      <input type="password" name="password">
-      <button>Ingresar</button>
+        <label for="">Usuario</label>
+        <input type="text" name="usuario">
+        <label for="">Contraseña</label>
+        <input type="password" name="password">
+        <button>Ingresar</button>
     </form>
     <p class="registrate">¿No tienes una cuenta? Registrate!</p>
     <p class="vinculo"><a href="registro.php">Registrate</a></p>  

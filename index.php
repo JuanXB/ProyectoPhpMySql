@@ -16,16 +16,14 @@
     <div class="cont_form">
       <form action="validacion.php" method="post">
         <h2>Logueate</h2>
-        <label for="">Usuario</label>
-        <input type="text" name="usuario">
-        <label for="">Contraseña</label>
-        <input type="password" name="password">
+        <input type="text" name="usuario" placeholder="Nombre de usuario">
+        <input type="password" name="password" placeholder="Ingrese contraseña">
         <button>Ingresar</button>
-      </form>
-         
+      </form>  
       <p class="registrate">¿No tienes una cuenta? Registrate!</p>
       <p class="vinculo"><a href="registro.php">Registrate</a></p>  
     </div>
+  
   </div>
 </body>
 </html>

@@ -12,14 +12,13 @@
     <header>
       <nav class="menu">
         <ul>
-          <li><a href="home.php">Inicio</a></li>
-          <li><a href="#">Sobre nosotros</a></li>
-          <li><a href="contacto.php">Contacto</a></li>
-          <li><a href="#">Usuarios</a></li>
+          <li><a href="home.php">Inicio</a> |</li>
+          <li><a href="#">Sobre nosotros</a> |</li>
+          <li><a href="contacto.php">Contacto</a> |</li>
+          <li><a href="usuario.php">Usuarios</a></li>
         </ul>
       </nav>
       <div class="portada">
-        <img src="" alt="" class="img_portada">
         <h1>Sobre nosotros</h1>
       </div>
     </header>

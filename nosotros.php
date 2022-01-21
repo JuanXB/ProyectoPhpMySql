@@ -12,7 +12,7 @@
     <header>
       <nav class="menu">
         <ul>
-          <li><a href="home.php">Inicio</a> |</li>
+          <li><a href="inicio.php">Inicio</a> |</li>
           <li><a href="#">Sobre nosotros</a> |</li>
           <li><a href="contacto.php">Contacto</a> |</li>
           <li><a href="usuario.php">Usuarios</a></li>
@@ -23,8 +23,7 @@
       </div>
     </header>
     
-    <section class= "laboral">
-      <img src="" alt="" class= "imagen_laboral">
+    <section class= "laboral">    
       <article class="art_laboral">
         <h2>Oportunidades laborales</h2>
         <p class = "parrafo1">
@@ -46,8 +45,6 @@
       </article>
     </section>
     <section class="producto">
-      <img src="" alt="" class= "imagen_productos">
-      <article class="art_producto">
         <h2>Productos</h2>
         <p class="parrafo3">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -59,7 +56,6 @@
           quo fuga iste officia adipisci ratione earum tempora magnam, 
           nemo vero velit illo hic totam omnis.
         </p>
-      </article>
     </section>
     <footer>
       <h2 class="final">Curso PHP</h2>

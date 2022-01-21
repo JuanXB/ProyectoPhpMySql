@@ -26,7 +26,7 @@
     </form>
     <p class="login">
       <h3>¿Ya tienes una cuenta? Logueate aquí</h3>
-      <a href="/login.php">Login</a>
+      <a href="/index.php">Login</a>
     </p>
     </div>
   </div>

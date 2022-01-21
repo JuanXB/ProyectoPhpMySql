@@ -14,7 +14,7 @@
           <li><a href="#">Inicio</a></li>
           <li><a href="nosotros.php">Sobre nosotros</a></li>
           <li><a href="contacto.php">Contacto</a></li>
-          <li><a href="usuario.php">Usuarios</a></li>
+          <li><a href="usuarios.php">Usuarios</a></li>
         </ul>
       </nav>
     </header>

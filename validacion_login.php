@@ -22,7 +22,7 @@
     echo "<h1>Usuario y contraseña incorrectos</h1>";
   }
   else {
-    header('location:home.php');
+    header('location:inicio.php');
   }
 
 ?>

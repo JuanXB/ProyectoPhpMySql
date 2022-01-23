@@ -22,41 +22,44 @@
         <h1>Sobre nosotros</h1>
       </div>
     </header>
-    
-    <section class= "laboral">    
-      <article class="art_laboral">
-        <h2>Oportunidades laborales</h2>
-        <p class = "parrafo1">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Vitae necessitatibus eos, mollitia minima fugiat, 
-          quo fuga iste officia adipisci ratione earum tempora magnam, 
-          nemo vero velit illo hic totam omnis.
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Vitae necessitatibus eos, mollitia minima fugiat, 
-          quo fuga iste officia adipisci ratione earum tempora magnam, 
-          nemo vero velit illo hic totam omnis.
-        </p>
-        <p class = "parrafo2">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Vitae necessitatibus eos, mollitia minima fugiat, 
-          quo fuga iste officia adipisci ratione earum tempora magnam, 
-          nemo vero velit illo hic totam omnis.
-        </p>
-      </article>
-    </section>
-    <section class="producto">
-        <h2>Productos</h2>
-        <p class="parrafo3">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Vitae necessitatibus eos, mollitia minima fugiat, 
-          quo fuga iste officia adipisci ratione earum tempora magnam, 
-          nemo vero velit illo hic totam omnis.
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Vitae necessitatibus eos, mollitia minima fugiat, 
-          quo fuga iste officia adipisci ratione earum tempora magnam, 
-          nemo vero velit illo hic totam omnis.
-        </p>
-    </section>
+    <main>
+      <section class= "laboral">    
+        <article class="art_laboral">
+          <h2>Oportunidades laborales</h2>
+          <p class = "parrafo1">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae necessitatibus eos, mollitia minima fugiat, 
+            quo fuga iste officia adipisci ratione earum tempora magnam, 
+            nemo vero velit illo hic totam omnis.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae necessitatibus eos, mollitia minima fugiat, 
+            quo fuga iste officia adipisci ratione earum tempora magnam, 
+            nemo vero velit illo hic totam omnis.
+          </p>
+          <p class = "parrafo2">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae necessitatibus eos, mollitia minima fugiat, 
+            quo fuga iste officia adipisci ratione earum tempora magnam, 
+            nemo vero velit illo hic totam omnis.
+          </p>
+        </article>
+        <aside class="img_laboral"></aside>
+      </section>
+      <section class="producto">
+          <h2>Productos</h2>
+          <p class="parrafo3">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae necessitatibus eos, mollitia minima fugiat, 
+            quo fuga iste officia adipisci ratione earum tempora magnam, 
+            nemo vero velit illo hic totam omnis.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae necessitatibus eos, mollitia minima fugiat, 
+            quo fuga iste officia adipisci ratione earum tempora magnam, 
+            nemo vero velit illo hic totam omnis.
+          </p>
+          <aside class="img_producto"></aside>
+      </section>
+    </main>
     <footer>
       <h2 class="final">Curso PHP</h2>
     </footer>

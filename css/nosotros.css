@@ -12,12 +12,13 @@ body {
 
   display: flex;
   align-items: center;
-
+  justify-content: center;
 }
 
 .contenedor {
   min-height: 99vh;
   height: 100%;
+  width: 100%;
   display: grid;
   grid-template-columns: 100%;
   grid-template-rows: 2fr 2fr 1f;
@@ -73,9 +74,65 @@ li a {
 
 main {
   grid-row: 3 / 4;
+  flex-direction: column;
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  font-family:Verdana, Tahoma, sans-serif;
 }
 
+.laboral {
+  display: flex;
+  max-width: 120rem;
+  background-color: rgb(0, 86, 145);
+  border-radius: 2px;
+}
+
+.art_laboral {
+  flex:1;
+  color: rgb(232, 241, 245);
+  text-align:start;
+  padding: 0.5rem;
+}
+
+.art_laboral p{
+  margin-top: 0.5rem;
+}
+
+.img_laboral {
+  flex: 1;
+  background-image: url("../img/oportunidadLaboral.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.producto {
+  display: flex;
+  max-width: 120rem;
+  background-color: rgb(0, 86, 145);
+  border-radius: 2px;
+}
+
+.art_producto {
+  flex: 1;
+  color: rgb(232, 241, 245);
+  text-align:start;
+  padding: 0.5rem;
+}
+
+.art_producto p{
+  margin-top: 0.5rem;
+}
+
+.img_producto {
+  flex:1;
+  background-image: url("../img/productos.jpg");
+  background-position: center;
+  background-size: cover;
+}
 
 footer {
   grid-row:4 / 5;
+  font-size: 12px;
+  color: rgb(0, 86, 145);
 }

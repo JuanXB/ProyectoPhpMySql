@@ -46,18 +46,20 @@
         <aside class="img_laboral"></aside>
       </section>
       <section class="producto">
-          <h2>Productos</h2>
-          <p class="parrafo3">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Vitae necessitatibus eos, mollitia minima fugiat, 
-            quo fuga iste officia adipisci ratione earum tempora magnam, 
-            nemo vero velit illo hic totam omnis.
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Vitae necessitatibus eos, mollitia minima fugiat, 
-            quo fuga iste officia adipisci ratione earum tempora magnam, 
-            nemo vero velit illo hic totam omnis.
-          </p>
-          <aside class="img_producto"></aside>
+        <article class="art_producto">
+          <h2>Sobre nuestros productos</h2>
+            <p class="parrafo3">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Vitae necessitatibus eos, mollitia minima fugiat, 
+              quo fuga iste officia adipisci ratione earum tempora magnam, 
+              nemo vero velit illo hic totam omnis.
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Vitae necessitatibus eos, mollitia minima fugiat, 
+              quo fuga iste officia adipisci ratione earum tempora magnam, 
+              nemo vero velit illo hic totam omnis.
+            </p>
+        </article>
+        <aside class="img_producto"></aside>
       </section>
     </main>
     <footer>

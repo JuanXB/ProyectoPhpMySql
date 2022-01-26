@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/registro.css">
   <title>Registro</title>
 </head>
 <body>
@@ -12,22 +13,22 @@
       <h1>Únete a nosotros!!!</h1>
     </header>
     <div class="formulario">
-    <form action="validacin_registro" method="post">
-      <h2>Registro</h2>
-      <label for="">Nombre</label>
-      <input type="text" name="nombre" require>
-      <label for="">Nombre de usuario</label>
-      <input type="text" name="usuario" require>
-      <label for="">Contraseña</label>
-      <input type="text" name="password" require>
-      <label for="">Correo electrónico</label>
-      <input type="email" name="email" require>
-      <button>Registrarse</button>
-    </form>
-    <p class="login">
-      <h3>¿Ya tienes una cuenta? Logueate aquí</h3>
-      <a href="/index.php">Login</a>
-    </p>
+      <form action="validacin_registro" method="post">
+        <h2>Registro</h2>
+        <label for="">Nombre</label>
+        <input type="text" name="nombre" placeholder="Nombre y Apellido"require>
+        <label for="">Nombre de usuario</label>
+        <input type="text" name="usuario" placeholder="Nombre de  usuario" require>
+        <label for="">Contraseña</label>
+        <input type="text" name="password" placeholder="Contraseña" require>
+        <label for="">Correo electrónico</label>
+        <input type="email" name="email" placeholder="Correo electrónico" require>
+        <button>Registrarse</button>
+      </form>
+      <p class="login">
+        <h3>¿Ya tienes una cuenta? Logueate aquí</h3>
+        <a href="/index.php">Login</a>
+      </p>
     </div>
   </div>
 </body>

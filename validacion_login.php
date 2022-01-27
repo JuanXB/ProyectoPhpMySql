@@ -14,7 +14,7 @@
   $consulta = "SELECT * FROM usuario WHERE usuario = '$usuario' and contrasena = '$contraseña'";
 
   // Se realiza la consulta
-  $sql = mysqli_query($conexion,, $consulta);
+  $sql = mysqli_query($conexion, $consulta);
   $row = mysqli_fetch_array($sql);
 
   // Validación de datos

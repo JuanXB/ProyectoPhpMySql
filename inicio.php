@@ -22,41 +22,68 @@
     <main>
       <aside>
           <h2 class="titulo_aside">Noticias</h2>
-          <p class="parrafo_nav_der">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Labore adipisci dolor, asperiores magnam, 
-          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-          atque nemo magni ipsam libero fugit quam vero!
-          </p>
+          <div class="noticias">
+            <div class="noticia_aside">
+              <h3>Labore adipisci dolor</h3>
+              <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              Labore adipisci dolor, asperiores magnam, 
+              deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+              atque nemo magni ipsam libero fugit quam vero!
+              </p>
+            </div>  
+            <div class="noticia_aside">
+              <h3>Tempore quidem dolorum</h3>
+              <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              Labore adipisci dolor, asperiores magnam, 
+              deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+              atque nemo magni ipsam libero fugit quam vero!
+              </p>
+            </div>  
+            <div class="noticia_aside">
+              <h3>Tempore quidem dolorum</h3>
+              <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              Labore adipisci dolor, asperiores magnam, 
+              deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+              atque nemo magni ipsam libero fugit quam vero!
+              </p>
+            </div>  
+          </div>  
       </aside>
       <section>
         <article class="articulo1">
-          <h2 class="titulo1">Novedades</h2>
-          <p class="parrafo1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Labore adipisci dolor, asperiores magnam, 
-          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-          atque nemo magni ipsam libero fugit quam vero!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Labore adipisci dolor, asperiores magnam, 
-          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-          atque nemo magni ipsam libero fugit quam vero!
-          </p>
           <figure class="img_art1"></figure>
+          
+          <div class="parrafo1">
+            <h2 class="titulo1">Novedades</h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore adipisci dolor, asperiores magnam, 
+            deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+            atque nemo magni ipsam libero fugit quam vero!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore adipisci dolor, asperiores magnam, 
+            deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+            atque nemo magni ipsam libero fugit quam vero!
+            </p>
+          </div>
         </article>
         <article class="articulo2">
-          <h2 class="titulo">Curiosidaddes</h2>
-          <p class="parrafo2">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Labore adipisci dolor, asperiores magnam, 
-          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-          atque nemo magni ipsam libero fugit quam vero!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Labore adipisci dolor, asperiores magnam, 
-          deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
-          atque nemo magni ipsam libero fugit quam vero!
-          </p>
-          <figure class = "img_art2"></figure>
+        <figure class = "img_art2"></figure>
+          <div class="parrafo2">
+            <h2 class="titulo2">Curiosidades</h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore adipisci dolor, asperiores magnam, 
+            deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+            atque nemo magni ipsam libero fugit quam vero!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore adipisci dolor, asperiores magnam, 
+            deserunt tempore quidem dolorum similique odio dignissimos repudiandae soluta
+            atque nemo magni ipsam libero fugit quam vero!
+            </p>
+          </div>
+      
         </article>
       </section>
     </main>

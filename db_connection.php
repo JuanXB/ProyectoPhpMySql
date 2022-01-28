@@ -6,6 +6,6 @@
     header("location: index.php");
   }
   else {
-    echo "No se puedo conectar a la base de datos". mysqli_error();
+    echo ("No se puedo conectar a la base de datos".mysqli_connect_error());
   }
  ?>

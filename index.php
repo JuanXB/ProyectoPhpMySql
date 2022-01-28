@@ -20,7 +20,7 @@
         <input type="password" name="password" placeholder="Ingrese contraseña">
         <button>Ingresar</button>
       </form>  
-      <p class="registrate">¿No tienes una cuenta? Registrate!</p>
+      <p class="registrate">¿No tienes una cuenta?</p>
       <p class="vinculo"><a href="registro.php">Registrate</a></p>  
     </div>
   

@@ -18,6 +18,7 @@ body {
 
 .contenedor {
   min-height: 99vh;
+  height: 100%;
   min-width: 100%;
   flex-direction: column;
   display: flex;

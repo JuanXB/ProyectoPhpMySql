@@ -12,7 +12,7 @@
   <header>
       <nav class="menu">
         <ul>
-          <li><a href="home.php">Inicio</a>|</li>
+          <li><a href="inicio.php">Inicio</a>|</li>
           <li><a href="nosotros.php">Sobre nosotros</a>|</li>
           <li><a href="#">Contacto</a>|</li>
           <li><a href="usuarios.php">Usuarios</a></li>

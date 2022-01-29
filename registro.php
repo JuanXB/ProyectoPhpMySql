@@ -20,14 +20,14 @@
         <label for="">Nombre de usuario</label>
         <input type="text" name="usuario" placeholder="Nombre de  usuario" require>
         <label for="">Contraseña</label>
-        <input type="text" name="password" placeholder="Contraseña" require>
+        <input type="password" name="password" placeholder="Contraseña" require>
         <label for="">Correo electrónico</label>
         <input type="email" name="email" placeholder="Correo electrónico" require>
-        <button>Registrarse</button>
+        <button class="registrarse">Registrarse</button>
       </form>
       <p class="login">
         <h3>¿Ya tienes una cuenta? Logueate aquí</h3>
-        <a href="/index.php">Login</a>
+        <button class="boton_log" onclick="location.href='../ProyectoPhpMySql/index.php'">Login</button>
       </p>
     </div>
   </div>

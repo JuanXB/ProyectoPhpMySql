@@ -1,6 +1,6 @@
 <?php
   /*Llamamos a la conexion de base de datos */
-  include ("db_connect.php");
+  include ("db_connection.php");
 
   // Declaramos las variables que contendran los datos ingresados en el formulario.
   $usuario = $_POST['usuario'];

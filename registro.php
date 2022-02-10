@@ -13,7 +13,7 @@
       <h1>Únete a nosotros!!!</h1>
     </header>
     <div class="formulario">
-      <form action="validacin_registro" method="post">
+      <form action="validacion_registro.php" method="post">
         <h2>Registro</h2>
         <label for="">Nombre</label>
         <input type="text" name="nombre" placeholder="Nombre y Apellido"require>

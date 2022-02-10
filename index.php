@@ -14,7 +14,7 @@
     </header>
 
     <div class="cont_form">
-      <form action="validacion.php" method="post">
+      <form action="validacion_login.php" method="post">
         <h2>Logueate</h2>
         <input type="text" name="usuario" placeholder="Nombre de usuario">
         <input type="password" name="password" placeholder="Ingrese contraseña">
